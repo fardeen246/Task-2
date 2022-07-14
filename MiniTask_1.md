@@ -1,18 +1,24 @@
 # SWOT Analysis of Last Year's Approach
 
 ## Strengths
+- It can be mounted onto any helmet which ensures that anyone can use this product
 
 ## Weakess
+- Creation of a fully functioning app with MAPS API is difficult
 
 ## Opportunities 
+- Product is very cheap in comparison to it's competitors
+- There is no reaL competitor for this design and there is sufficient demand for this product
 
 ## Threats
+- Previous Companies who tried to solve this problem have now exited the market, so gaining consumers in the market is a challenge
 
 
+## Measures/Improvements to the deign
+- Use Voice Controllabilty Systems in the HUD so that driver can control the product while driving
 
-
-
-
+## Measures to avoid missing extra details into product
+- Collect data from the market consumers regarding the features they would like to see in such a helmet
 
 # Market Research
 
